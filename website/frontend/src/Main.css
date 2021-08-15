@@ -206,3 +206,18 @@ label {
     text-align: left;
 
 }
+
+.omg {
+    border: 1px solid #fb8332;
+    padding: 10px;
+}
+select {
+    width: 100%;
+    border: 1px solid #ccc;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+option {
+
+}
